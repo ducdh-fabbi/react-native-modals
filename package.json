@@ -1,6 +1,6 @@
 {
   "name": "@ducdh-origin/react-native-modals",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Native Popup Dialog for IOS & Android.",
   "main": "dist/index.js",
   "scripts": {
