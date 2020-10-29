@@ -14,7 +14,7 @@ export default class PopupDialog extends Component<DialogProps, State> {
     super(props);
 
     this.state = {
-      visible: props.visible,
+      visible: !!props.visible,
     };
   }
 
